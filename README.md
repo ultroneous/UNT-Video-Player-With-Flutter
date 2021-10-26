@@ -1,4 +1,4 @@
-# videoplayer
+# UNT Video Player
 
 A new Flutter project.
 
